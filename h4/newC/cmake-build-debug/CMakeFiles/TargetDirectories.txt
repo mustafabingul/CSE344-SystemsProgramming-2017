@@ -1,0 +1,3 @@
+/home/mustafa/Desktop/SP/homeworks/h4/newC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mustafa/Desktop/SP/homeworks/h4/newC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mustafa/Desktop/SP/homeworks/h4/newC/cmake-build-debug/CMakeFiles/newC.dir

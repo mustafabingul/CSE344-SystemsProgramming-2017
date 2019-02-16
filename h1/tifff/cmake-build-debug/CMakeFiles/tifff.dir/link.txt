@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/tifff.dir/main.c.o  -o tifff 

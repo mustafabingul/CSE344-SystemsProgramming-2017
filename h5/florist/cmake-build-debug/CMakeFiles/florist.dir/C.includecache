@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mustafa/Desktop/SP/homeworks/h5/florist/141044077_main.c
+stdio.h
+-
+math.h
+-
+pthread.h
+-
+string.h
+-
+myQueue.h
+/home/mustafa/Desktop/SP/homeworks/h5/florist/myQueue.h
+unistd.h
+-
+
+/home/mustafa/Desktop/SP/homeworks/h5/florist/myQueue.h
+stdlib.h
+-
+stdio.h
+-
+

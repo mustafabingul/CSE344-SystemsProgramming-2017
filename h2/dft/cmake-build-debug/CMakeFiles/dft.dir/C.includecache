@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mustafa/Desktop/SP/homeworks/h2/dft/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+wait.h
+-
+fcntl.h
+-
+unistd.h
+-
+signal.h
+-
+math.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/florist.dir/141044077_main.c.o  -o florist 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/dft.dir/main.c.o CMakeFiles/dft.dir/mainn.c.o  -o dft 

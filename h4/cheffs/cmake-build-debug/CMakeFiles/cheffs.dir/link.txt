@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/cheffs.dir/141044077_main.c.o  -o cheffs 

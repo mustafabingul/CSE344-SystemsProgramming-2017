@@ -1,0 +1,3 @@
+/home/mustafa/Desktop/SP/homeworks/FinalProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mustafa/Desktop/SP/homeworks/FinalProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mustafa/Desktop/SP/homeworks/FinalProject/cmake-build-debug/CMakeFiles/FinalProject.dir
